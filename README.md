@@ -123,6 +123,7 @@ lalu jalankan ulang script.
    ```
 
 ---
+![TrapZone_Picture](assets/CLI.png)
 
 ## Penggunaan
 Setelah menjalankan:
