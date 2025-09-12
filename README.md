@@ -2,7 +2,7 @@
   <img src="assets/trapzone.jpg" alt="TryHuntMe Logo" width="350"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.4-violet" />
+  <img src="https://img.shields.io/badge/PHP-8.4-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/github/tag/KalloloCoder/TrapZone.svg" />
   <img src="https://img.shields.io/github/license/KalloloCoder/TrapZone" />
   <img src="https://img.shields.io/badge/Maintained-Yes-green" />
