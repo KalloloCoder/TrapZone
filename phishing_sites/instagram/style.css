@@ -1,0 +1,27 @@
+body {
+    background: #fafafa;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+.login-box {
+    margin: 100px auto;
+    width: 300px;
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #dbdbdb;
+}
+h1 {
+    font-family: 'Billabong', cursive;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+input, button {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+}
+button {
+    background: #3897f0;
+    color: #fff;
+    border: none;
+}
