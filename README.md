@@ -37,6 +37,9 @@ Proyek ini hanya untuk **edukasi** dan **latihan etis** dalam mengenali serangan
 ```
 TrapZone/
 ├── trapzone.php          # CLI Controller
+├── assets/
+│   ├── CLI.png           # Tampilan CLI
+│   └── trapzone.jpg      # Logo TrapZone
 ├── includes/
 │   ├── config.php        # Konfigurasi global
 │   └── functions.php     # Fungsi utilitas
